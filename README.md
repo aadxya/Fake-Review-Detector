@@ -1,7 +1,6 @@
 # Fake Review Detector (NLP + Streamlit)
 
 A machine learning project that detects **fake vs real** product reviews using **TF-IDF vectorization**, **Logistic Regression**, and **behavioral text features** such as exclamation count, sentiment, and repeated promotional phrases.  
-It also includes a sleek **Streamlit app** for interactive real-time predictions.
 
 ---
 
